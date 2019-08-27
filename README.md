@@ -7,6 +7,10 @@
   - [Passo a Passo](#executando-o-projeto)
   - [Contribuindo](#contribuindo)
 
+# IP - 54.82.75.47
+# Porta SSH - 2200
+# URL - http://54.82.75.47.xip.io/
+
 # Passo a Passo
 
 ## Criando uma instância Lightsail
